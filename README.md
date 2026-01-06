@@ -29,7 +29,7 @@ Theorie bestaat uit de volgende onderwerpen
 
 
 Op zoek naar meet detail over de **onderwerpen** die we gaan bespreken? 
-Die kun je [HIER](https://github.com/hogeschool/Machine-Learning-Basics/blob/main/theory.md) vinden.
+Die kun je [HIER](https://github.com/hogeschool/Machine-Learning-Basics-public/blob/main/theory.md) vinden.
 
 ---
 # Project
@@ -39,7 +39,7 @@ Die kun je [HIER](https://github.com/hogeschool/Machine-Learning-Basics/blob/mai
 Een fictief bedrijf heeft een apparaat ontwikkeld dat **NumberDigitalizer** heet. Het apparaat heeft een klein schermpje waar de gebruiker een handgeschreven getal kan invoeren met een stylo pen. Het getal moet worden omgezet naar een digitale representatie getal en doorgegeven aan een gekoppeld apparaat.
 
 Het apparaat NumberRecoDigitalizer ziet er zo uit:
-[![Alt text](https://github.com/hogeschool/Neural-Networks-Mysteries/blob/main/mystery_device.png)](https://github.com/hogeschool/Neural-Networks-Mysteries/blob/main/mystery_device.png)
+[![Alt text](https://github.com/hogeschool/Neural-Networks-Mysteries-public/blob/main/mystery_device.png)](https://github.com/hogeschool/Neural-Networks-Mysteries-public/blob/main/mystery_device.png)
 
 
 ***NumberDigitalizer apparaat concept***
