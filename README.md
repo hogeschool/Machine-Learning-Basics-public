@@ -123,6 +123,26 @@ b = [b_0, b_1, ..., b_9]
 - Lijkt op een mini-neuraal netwerk zonder hidden layers.
 
 
+## Neuraal Netwerk
+
+**Beschrijving: Maak een Multi-layer perceptron (MLP) met input layer (28×28 = 784), 1 of 2 hidden layers en otput layer van 10 nodes (cijfers 0-9).**
+
+***Waarom interessant?***
+
+- Studenten leren verschillende datastructuren voor gewichten en biases:
+
+    - Dict van arrays (W1, b1, …)
+
+    - Class met attributes
+
+    - Flat array + offsets
+
+- Ze kunnen experimenteren met activatie functies: ReLU, sigmoid, softmax.
+
+- Memory management wordt belangrijk: grotere hidden layers = meer geheugen, batch size beïnvloedt runtime.
+
+- Laat studenten nadenken over forward pass vs backpropagation: wat moet in geheugen blijven, wat kan hergebruikt worden?
+
 ## Decision Tree
 
 **Beschrijving: Classificeer een cijfer door een boom van beslissingen op features te doorlopen.**
@@ -157,25 +177,6 @@ Geheugen: klein tot medium, afhankelijk van aantal nodes en feature-representati
 
 Snelheid: snel bij kleine bomen, kan trager worden bij grote diepe bomen.
 
-## Neuraal Netwerk
-
-**Beschrijving: Maak een Multi-layer perceptron (MLP) met input layer (28×28 = 784), 1 of 2 hidden layers en otput layer van 10 nodes (cijfers 0-9).**
-
-***Waarom interessant?***
-
-- Studenten leren verschillende datastructuren voor gewichten en biases:
-
-    - Dict van arrays (W1, b1, …)
-
-    - Class met attributes
-
-    - Flat array + offsets
-
-- Ze kunnen experimenteren met activatie functies: ReLU, sigmoid, softmax.
-
-- Memory management wordt belangrijk: grotere hidden layers = meer geheugen, batch size beïnvloedt runtime.
-
-- Laat studenten nadenken over forward pass vs backpropagation: wat moet in geheugen blijven, wat kan hergebruikt worden?
 
 ***Extra aandachtspunten / variaties:***
 

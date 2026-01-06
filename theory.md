@@ -1,9 +1,10 @@
 **Note: The course will be given in Dutch**
+
 **Note: Some of the subjects might be changed or removed during the first iteration of the course for plannning purposes**
 
 ## Theory
 
-### Basic Datastructures and recap** 
+### Basic Datastructures and recap
 
 - Introduction to Complexity Analysis 
 
