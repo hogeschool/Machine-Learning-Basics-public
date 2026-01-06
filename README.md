@@ -4,31 +4,15 @@ De volgende onderwerpen zullen worden besproken:
 Theorie bestaat uit de volgende onderwerpen
 
 1. Basis Datastructuren en complexiteit
-
 2. Graphs en bomen (Trees)
-
 3. Numpy en data begrijpen / analyseren
-
 4. Data representaties
-
 5. Unsupervised learning
-
 6. Supervised Learning
+7. Neurale Netwerken (NN) Intro
+8. Beslissingsbomen (Descision trees)
 
-7. Beslissingsbomen (Descision trees)
-
-8. Neurale Netwerken (NN) Intro
-
-9. Architectuur and data voor de NN
-
-10. Activatie functies
-
-11. Back propagation
-
-12. Trainen en voorspellen met NN
-
-
-Op zoek naar meet detail over de **onderwerpen** die we gaan bespreken? 
+Op zoek naar meer detail over de **onderwerpen** die we gaan bespreken? 
 Die kun je [HIER](https://github.com/hogeschool/Machine-Learning-Basics-public/blob/main/theory.md) vinden.
 
 ---

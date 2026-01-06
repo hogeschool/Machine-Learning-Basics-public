@@ -1,15 +1,32 @@
-Theorie bestaat uit de volgende onderwerpen
+**Note: The course will be given in Dutch**
+**Note: Some of the subjects might be changed or removed during the first iteration of the course for plannning purposes**
 
-**1. Basic Datastructures and recap** 
+## Theory
+
+### Basic Datastructures and recap** 
 
 - Introduction to Complexity Analysis 
 
-- List, Tuple, Dictionary, Set, Queue, Stack, Linked List 
+- Standard datatypes: List, Tuple, Dictionary, Set, Queue, Stack, Linked List 
 
-- Assignments on memory comparison between different data structures (practicum)  
+- Memory comparison between different data structures
+
+## Working with numpy
+
+- Numpy basics 
+
+- Doing calculations with arrays/matrices 
+
+- Numpy functions 
+
+- Dot product   
+
+- Exploring data
+
+- Visualizing data
 
 
-**2.  Graphs and Trees** 
+## Graphs and Trees
 
 - Graphs, Trees 
 
@@ -19,29 +36,9 @@ Theorie bestaat uit de volgende onderwerpen
 
 - Shortest Path algorithms: Dijkstra, A* 
 
-- Building tree representations with different data structures (practicum) 
+- Tree representations with different data structures 
 
-- Building algorithms to search trees assignments (practicum)   
 
- 
-
-**3. Working with numpy**
-
-- Numpy basics 
-
-- Doing calculations with arrays/matrices 
-
-- Numpy functions 
-
-- Dot product 
-
-- Exercises with numpy and their functionalities (practicum)   
-
-- Exercises exploring data (practicum) 
-
-- Exercises plotting and visualizing data (practicum) 
-
- 
 
 **4. Data representation**
 
@@ -49,14 +46,11 @@ Theorie bestaat uit de volgende onderwerpen
 
 - One hot encoding 
 
-- Exercises with one hot encoding using different datastructures (practicum) 
-
-- Exeperiment with other representations of different kinds of data (practicum) 
+- Other representations of different kinds of data
 
  
- 
 
-**5. Unsupervised learning** 
+## Unsupervised learning
 
 - Difference between Supervised and Unsupervised learning 
 
@@ -66,11 +60,9 @@ Theorie bestaat uit de volgende onderwerpen
 
 - K-means clustering 
 
-- Exercises with k-means clustering and PCA with different datastructures (practicum) 
-
  
 
-**6. Supervised Learning** 
+## Supervised Learning
 
 - Supervised learning applications 
 
@@ -86,13 +78,9 @@ Theorie bestaat uit de volgende onderwerpen
 
 - KNN algorithm 
 
-- Making predictions with simple supervised algorithms (eg KNN) (practicum) 
 
 
-
- 
-
-**8. Neural Networks Introduction**
+### Neural Networks Introduction**
 
 - Purpose 
 
@@ -100,15 +88,11 @@ Theorie bestaat uit de volgende onderwerpen
 
 - Forward step 
 
-- Data representation 
-
-- Explore MNIST database (practicum) 
-
-- Experiment with test/train set and data representations (practicum) 
+- Data representation
 
  
 
-**9. Architecture and data for the NN** 
+### Architecture and data for the NN** 
 
 - Architecture in more detail, why certain choices are made (eg layers, nodes etc.) 
 
@@ -118,27 +102,22 @@ Theorie bestaat uit de volgende onderwerpen
 
 - Explanation of using a library to create a simple NN and how to experiment with it 
 
-- Experiment with architectures. Experiment with different data representations. Create a simple Neural Network with a library (practicum) 
+- Epochs
 
- 
+- Datastructure sizes in NN
 
-**10. Activation functions** 
+
+### Activation functions** 
 
 - Forward propagation 
 
 - activation functions: Relu, Sigmoid, Softmax 
 
-- Implement activation function without external libraries except for numpy: ReLU, Sigmoid, 
-
-- Softmax 
-
-- Start implementing a minimal  NN (without backpropagation): a forward step using activations (practicum) 
-
-- Experiment with different datastructures  (practicum) 
+- Different datastructures and algorithms for a library independent NN 
 
  
 
-**11. Back propagation** 
+### Back propagation** 
 
 - Basic explanation and purpose 
 
@@ -153,22 +132,17 @@ Theorie bestaat uit de volgende onderwerpen
 - Learning rate 
 
 - Backpropagation in depth pseudocode 
-
-- Implement a function to calculate loss and experiment. (practicum) 
-
-- Implement a derivative activation function (practicum) 
-
-- Implement a backpropagation function. (practicum) 
-
  
 
-**12.  Train and predict** 
+### Train and predict
 
-- Complete and continue working on your NN and data representation with different data structures and representations (practicum) 
+- Bringing it all together
 
-- Compare your results and select the best one for the problem at hand 
+### Decision Trees
 
-**13. Optional subjects**
+- TBD
+
+**Optional subjects**
 
 - Transformer
 
