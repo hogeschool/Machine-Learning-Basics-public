@@ -4,6 +4,8 @@
 
 ## Theory
 
+## For a more detailed overvies of the learning goals (leerdoelen) see the files per lesson in this repository
+
 ### Basic Datastructures and recap
 
 - Introduction to Complexity Analysis 
