@@ -1,12 +1,12 @@
 **Note: The course will be given in Dutch**
 
-**Note: Some of the subjects might be changed or removed during the first iteration of the course for plannning purposes**
+**Note: Some of the subjects might be changed or removed during the first iteration of the course for planning purposes**
 
-## Theorie Leerdoelen
+# Theorie Leerdoelen
 
-### Basic Datastructures and recap
+## Basic Datastructures and recap
 
-## Leerdoelen 1.1
+### Leerdoelen 1.1
 
 **L1.1.1** Kunnen uitleggen wat complexiteit is, met name O(1), O(n), O(n^2) en O(log(n)).
 
@@ -23,7 +23,7 @@
 
 ## Trees (Bomen)
 
-## Leerdoelen 1.2
+### Leerdoelen 1.2
 
 **L1.2.1**
 - Weten wat dot product is en hoe je deze met de hand kan berekenen op vectoren
@@ -47,7 +47,7 @@
 
 ## Graphs (Grafen)
 
-## Leerdoelen 1.3
+### Leerdoelen 1.3
 
 **L1.3.1**
 - definitie, werking begrijpen van een graaf
@@ -73,7 +73,7 @@
 
 ## Data representatie 
 
-## Leerdoelen 2.1
+### Leerdoelen 2.1
 
 **L2.1.1**
 - Volgende termen / type data / features kunnen uitleggen:
@@ -100,7 +100,7 @@
 
 ## Unsupervised learning
 
-## Leerdoelen 2.2
+### Leerdoelen 2.2
 
 **L2.2.1**
 
@@ -154,7 +154,7 @@ Association rule learning
 
 
 
-### Neural Networks Introduction**
+## Neural Networks Introduction**
 
 - Purpose 
 
@@ -166,7 +166,7 @@ Association rule learning
 
  
 
-### Architecture and data for the NN** 
+## Architecture and data for the NN** 
 
 - Architecture in more detail, why certain choices are made (eg layers, nodes etc.) 
 
@@ -181,7 +181,7 @@ Association rule learning
 - Datastructure sizes in NN
 
 
-### Activation functions** 
+## Activation functions** 
 
 - Forward propagation 
 
@@ -191,7 +191,7 @@ Association rule learning
 
  
 
-### Back propagation** 
+## Back propagation** 
 
 - Basic explanation and purpose 
 
@@ -208,11 +208,11 @@ Association rule learning
 - Backpropagation in depth pseudocode 
  
 
-### Train and predict
+## Train and predict
 
 - Bringing it all together
 
-### Decision Trees
+## Decision Trees
 
 - TBD
 
