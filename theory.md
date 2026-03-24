@@ -2,64 +2,137 @@
 
 **Note: Some of the subjects might be changed or removed during the first iteration of the course for plannning purposes**
 
-## Theory
+## Theorie Leerdoelen
 
 ### Basic Datastructures and recap
 
-- Introduction to Complexity Analysis 
+## Leerdoelen 1.1
 
-- Standard datatypes: List, Tuple, Dictionary, Set, Queue, Stack, Linked List 
+**L1.1.1** Kunnen uitleggen wat complexiteit is, met name O(1), O(n), O(n^2) en O(log(n)).
 
-- Memory comparison between different data structures
+**L1.1.2** Werking van de volgende datastructuren kunnen uitleggen en toepassen:
+- List
+- Tuple
+- Dictionary
+- Set
+- Stack
+- Queue
+- Linked List
 
-## Working with numpy
+**L1.1.3** De complexiteit van bovengenoemde structuren kunnen uitleggen
 
-- Numpy basics 
+## Trees (Bomen)
 
-- Doing calculations with arrays/matrices 
+## Leerdoelen 1.2
 
-- Numpy functions 
+**L1.2.1**
+- Weten wat dot product is en hoe je deze met de hand kan berekenen op vectoren
+- Weten wat de uitkomst betekent (vergelijkbare richting, loodrecht of tegenovergesteld) 
 
-- Dot product   
+**L1.2.2**
+- Weten wat slicing betekent
+- Wat is het verschil tussen copy en view (in Numpy)
 
-- Exploring data
-
-- Visualizing data
-
-
-## Graphs and Trees
-
-- Graphs, Trees 
-
-- Complexity of these. 
-
-- Search by BFS, DFS 
-
-- Shortest Path algorithms: Dijkstra, A* 
-
-- Tree representations with different data structures 
+**L1.2.3**
+- definitie, werking en complexiteit begrijpen van een binaire boom
+- definitie, werking en complexiteit begrijpen van een binaire zoekboom
+(rotaties hoef je niet zelf uit te voeren, wel begrijpen waarom)
+- volgende termen begrijpen en uitleggen: 
+    - hoogte van een boom bepalen
+    - perfect binary tree 
+    - full binary tree
+    - balanced binary tree 
+    - complete binary tree
 
 
+## Graphs (Grafen)
 
-**4. Data representation**
+## Leerdoelen 1.3
 
-- Categorical vs Continuous data 
+**L1.3.1**
+- definitie, werking begrijpen van een graaf
+- definities kennen van de termen die bij ene graf horen (ie node, directed, weighted etc.)
 
-- One hot encoding 
+**L1.3.2**
+- Breadth‑First Search begrijpen en kunnen toepassen
 
-- Other representations of different kinds of data
+**L1.3.3**
+- Depth‑First Search begrijpen en kunnen toepassen
+
+**L1.3.4**
+- Dijkstra algoritme en A* begrijpen en kunnen toepassen
+
+**L1.3.5**
+- Begrijpen wanneer je voor een van de besproken zoekmethodes kiest
+
+**L1.3.6**
+- priority queue en Min/max heap kunnen uitleggen
+
+**L1.3.7**
+- Manhattan distance en Eclidean distance kunnen uitleggen en toepassen
+
+## Data representatie 
+
+## Leerdoelen 2.1
+
+**L2.1.1**
+- Volgende termen / type data / features kunnen uitleggen:
+  Categorical, numerical, discrete, continuous, nominal, ordinal.
+- indien data is gegeven kunnen beargumenteren welke termen van toepassing zijn  
+
+**L2.1.2**
+- Begrijpen waaom encoderen belangrijk is voor categorical data
+- Ordinal Encoding begrijpen en kunnen toepassen
+- One Hot Encoding begrijpen en kunnen toepassen
+
+**L2.1.3**
+- Begrijpen waarom encoderen belangrijk is voor numerieke data
+- Normalisatie kunnen toepassen
+
+**L2.1.4**
+- Binning types begrijpen: Equal‑Width Binning, Equal‑Frequency    Binning, Semantic Binning
+- Binning kunnen toepassen en uitleggen wanner je voor welke kiest
+
+**L2.1.5**
+- Weten waar RGB RGBA CYMK en HSV/HSB voor staan en wanneer je ze beter toe kan passen. 
 
  
 
 ## Unsupervised learning
 
-- Difference between Supervised and Unsupervised learning 
+## Leerdoelen 2.2
 
-- Examples and applications of Unsupervised learning 
+**L2.2.1**
 
-- Principal Component Analysis 
+Redenen Unsupervised Learning kunnen uitleggen
 
-- K-means clustering 
+**L2.2.2**
+
+Covariantie matrix kunnen lezen en samenhang tussen variabelen kunnen inzien
+
+**L2.2.3**
+
+Nut van PCA kunnen begrijpen en uitleggen wat het is. Begrijpen waar PC1 en PC2 voor staan in een 2D PCA grafiek. Je hoeft de transformatie formules niet zelf te kennen/berekenen.
+
+**L2.2.4**
+
+K-means clustering:
+
+- Begrijpen waar K means clustering voor gebruikt kan worden
+- Het proces (de stappen) van K means clustering kunnen uileggen
+- Begrijpen hoe in de stappen van het proces de afstanden en gemiddelden berekend worden
+- Begrijpen wat een centroid en een prototype is 
+- Begrijpen wat de mogelijke voor/nadelen zijn van verschillende K waardes toegepast op een dataset
+
+**L2.2.5**
+
+Association rule learning
+
+- Begrijpen waar we associateregels voor gebruiken
+- De termen Support en Support Count kunnen uitleggen
+- Support en Support Count kunenn berekenen gegeven een dataset
+- Confidence en Lift kunnen berekenen als de formules zijn gegeven: je hoeft dus voor Confidence en Lift de formules niet uit je hoofd te leren, wel kunnen toepassen
+- Weten wat de waarde van Lift betekent voor een associatieregel: Lift > 1, Lift < 1 en Lift = 1
 
  
 
